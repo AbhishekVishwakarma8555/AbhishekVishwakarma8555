@@ -5,13 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvishwakarma8555&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvishwakarma8555" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Hacking Projects**
+
+- 🌱 I’m currently learning **Cehv12**
 
 - 📝 I regularly write articles on [https://medium.com/@ravi.vishwakarma5965](https://medium.com/@ravi.vishwakarma5965)
 
+- 💬 Ask me about **Cyber security, Ethical hacking, Bug Bounty, penetration testing**
+
 - 📫 How to reach me **ravi.vishwakarma5965@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **You are not secure 100%**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
